@@ -5,7 +5,7 @@ Write a Python program to find the second smallest number in a list.
 
 num = [5, 3, 8, 1, 4, 10, 2]
 
-
+#python code
 sort = sorted(set(num)) 
 
 # Check if the list has at least two unique elements
